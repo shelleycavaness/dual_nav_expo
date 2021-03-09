@@ -1,18 +1,17 @@
-## About the expo mobile app:
+## About the expo mobile app in typescript: :sparkle: :sparkle::sparkle::sparkle:
 
 ## How to quick start the project:
 
-### Clone the repo
-#### For the back see my nest.js  https://github.com/shelleycavaness/nov_nest
+### Clone the repo 
+####  :rainbow:	 For the back see my nest.js  https://github.com/shelleycavaness/nov_nest
 /api/
 express.js server in ES6
 `npm run start:dev`
 
-#### For the front
+#### For the front :stars:	
 :trumpet: Expo and react-native apps require a https back !
-#####:triangular_ruler: Work-around:
+##### :triangular_ruler: Work-around:
 I installed Ngrok to work around this issue because my develpment server was just a simple http one. In the Constants folder you will find ngrok.ts file that you can update with your https url from your ngrok development session. 
-
 :speak_no_evil:
 
 * [X] `expo start`
