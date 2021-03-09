@@ -1,0 +1,1 @@
+type CurrentScreen = 'Auth' | 'Main';
