@@ -1,6 +1,6 @@
-## About the expo mobile app in typescript: :sparkle: 
+## About the expo mobile app in typescript: 
 
-## How to quick start the project:
+## :sparkle: How to quick start the project: 
 
 ### Clone the back and front repo 
 ####  :rainbow:	 For the back see my nest.js  https://github.com/shelleycavaness/nov_nest
